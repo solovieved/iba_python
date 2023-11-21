@@ -1,0 +1,9 @@
+venv
+src/static
+
+*.log
+*.pot
+*.pyc
+*.sqlite3
+db.sqlite3
+**/migrations/*.py
